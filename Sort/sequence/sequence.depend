@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525844660 source:c:\users\lenovo\desktop\sequence\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
